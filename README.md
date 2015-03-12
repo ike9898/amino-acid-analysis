@@ -1,5 +1,5 @@
 # amino-acid-analysis
-foo
-foofoo
-      caca
+foo;
+foofoo;
+      caca;
       
